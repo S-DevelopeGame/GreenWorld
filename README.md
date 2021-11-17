@@ -1,4 +1,9 @@
-# GreenWorld
+
+![alt text](https://github.com/S-DevelopeGame/GreenWorld/blob/main/greenWorld.jpeg)
+
+
+
+
 משחק שבו תוכלו להפוך את העולם לטוב יותר, ירוק יותר ונקי 💚
 
 המשחק מתחיל בפארק עצוב זנוח ומלוכלך ותפקידך יהיה לאסוף ולמחזר כל מה שביכולתך.
